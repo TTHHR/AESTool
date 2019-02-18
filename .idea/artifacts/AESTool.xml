@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="AESTool">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="height" value="480" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="AESTool" />
+        <option name="vendor" value="TTHHR" />
+        <option name="version" value="1.0" />
+        <option name="width" value="640" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="AESTool.jar">
+        <element id="module-output" name="AESTool" />
+      </element>
+    </root>
+  </artifact>
+</component>
